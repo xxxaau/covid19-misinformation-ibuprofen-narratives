@@ -1,471 +1,153 @@
-lang,status_id,is_infected,type_author,screen_name,text,text_translation,retweet_count,created_at,tweet_reach,verified
-nl,1238500087262838800,FALSE,1,Advocaat_Sent,"Moet er nu een actie worden opgestart voor bezorging bij al die zieken, ouderen en anderen die geen paracetamol, ibuprofen of vitaminepil meer kunnen kopen maar het wel nu nodig hebben?  
-
-Dit kan toch niet. Mensen doe normaal.","¿Debería iniciarse ahora una acción para que se entregue a todos los enfermos, ancianos y otras personas que ya no pueden comprar paracetamol, ibuprofeno o píldoras de vitaminas pero que lo necesitan ahora?  
-
-Seguramente esto no es posible. La gente actúa con normalidad.",11,2020-03-13T16:20:05Z,17689,FALSE
-fr,1238761674968043500,TRUE,1,Le___Doc,"RAPPEL IMPORTANT concernant le #coronavirus #COVIDー19 
-
-Si vous avez un syndrome grippal, une fièvre inexpliquée, une toux...
-
-NE PRENEZ PAS d’anti-inflammatoires (advil, ibuprofene), pas de corticoïdes (solupred, prednisone) ni d’Aspirine.
-
-—&gt; Doliprane et avis de votre médecin","RECORDATORIO IMPORTANTE sobre el #coronavirus#COVIDー19 
-
-Si tienes síntomas parecidos a los de la gripe, fiebre inexplicable, tos...
-
-NO tome antiinflamatorios (advil, ibuprofeno), corticosteroides (solupred, prednisona) o aspirina.
-
--...Doliprane y el consejo de su médico...",8831,2020-03-14T09:39:33Z,6557223,FALSE
-fr,1238761901108146200,TRUE,1,Dr_moji,"Il semblerait, d’après certains réanimateurs, que les sujets jeunes qui sont intubés en réa auraient pris au préalable des anti inflammatoires comme Advil, Ibuprofene,Spedifen etc.
-Dans le doute, n’en prescrivez plus et n’en prenez pas en automédication en attendant les études.","Parece ser que, según algunos resucitadores, los sujetos jóvenes que son intubados en la UCI han tomado antes medicamentos antiinflamatorios como Advil, Ibuprofeno, Spedifen, etc.
-En caso de duda, no prescriba más y no se automedique mientras espera los estudios.",3123,2020-03-14T09:40:26Z,2595835,FALSE
-fr,1238764201507729400,TRUE,3,Conflits_FR,"��ALERTE - De nombreux cas jeunes en réanimations auraient pris des anti-inflammatoires non stéroïdiens tels que Advil, Ibuprofen etc. Une étude publiée par The Lancet a suggéré que ces médicaments augmentent le nombre de récepteurs ACE2 sur lesquels se fixe #COVID19. (@Dr_moji)","��ALERTE - Se ha informado de que muchos casos jóvenes en reanimación han tomado medicamentos antiinflamatorios no esteroideos como el Advil, el Ibuprofeno, etc. Un estudio publicado por The Lancet sugirió que estas drogas aumentan el número de receptores ACE2 a los que se une el #COVID19. (@Dr_moji)",3564,2020-03-14T09:49:35Z,3068235,FALSE
-fr,1238767290532933600,TRUE,3,Conflits_FR,"Le paracétamol n'est pas un anti-inflammatoire. Vous êtes nombreux à juger l'article sur son titre, mais pas son contenu : ""ACE2 can also be increased by thiazolidinediones and ibuprofen""
-https://t.co/yQ9Vw5Lk4A","El paracetamol no es un antiinflamatorio. Muchos de ustedes están juzgando el artículo por su título, pero no por su contenido: ""El ACE2 también puede aumentarse con tiazolidinedionas e ibuprofeno"".
-https://t.co/yQ9Vw5Lk4A",217,2020-03-14T10:01:51Z,321183,FALSE
-fr,1238776545398923300,TRUE,2,olivierveran,"⚠️ #COVIDー19 | La prise d'anti-inflammatoires (ibuprofène, cortisone, ...) pourrait être un facteur d'aggravation de l’infection. En cas de fièvre, prenez du paracétamol. 
-Si vous êtes déjà sous anti-inflammatoires ou en cas de doute, demandez conseil à votre médecin.","⚠️ #COVIDー19 | Tomar antiinflamatorios (ibuprofeno, cortisona, ...) podría ser un factor para agravar la infección. En caso de fiebre, tome paracetamol. 
-Si ya está tomando antiinflamatorios o si tiene dudas, pida consejo a su médico.",38860,2020-03-14T10:38:38Z,52220901,TRUE
-fr,1238776633122852900,TRUE,3,Conflits_FR,"��SUIVI - L'@ANSM a notamment publié une enquête l'année dernière suggèrant le rôle aggravant en cas d'infection de ces AINS (ibuprofène, kétroprofène) utilisés dans la fièvre ou la douleur.
-https://t.co/X1cahozc3M https://t.co/19B1P0rYso","��SUIVI - En particular, el @ANSM publicó una encuesta el año pasado que sugiere el papel agravante en caso de infección de estos AINEs (ibuprofeno, ketroprofeno) utilizados en la fiebre o el dolor.
-https://t.co/X1cahozc3M https://t.co/19B1P0rYso",312,2020-03-14T10:38:59Z,284687,FALSE
-de,1238777080885792800,TRUE,1,chaoshoch2,"Wenn der Mann sich wundert, warum ich so extrem wütend in die Tasten kloppe, hat ne Mutter in der KiGa-Gruppe eine kuriose Sprachnachricht geteilt, wonach inoffiziell die Uniklinik XY herausgefunden habe, dass man stirbt, wenn man Ibuprofen nimmt und mit Corona infiziert sei.","Si el hombre se pregunta por qué pulso las teclas con tanta rabia, una madre del grupo KiGa compartió un curioso mensaje de voz según el cual extraoficialmente el hospital universitario XY se enteró de que mueres si tomas ibuprofeno y te infectas con Corona.",106,2020-03-14T10:40:46Z,82934,FALSE
-fr,1238777286784098300,TRUE,1,mrccco,Une étude publiée par The Lancet a suggéré que les médicaments AINS comme l’ibuprofène ou l’advil augmentent le nombre de récepteurs ACE2 sur lesquels se fixe le coronavirus. Des jeunes sont en réanimation après en avoir consommé. Rappel Doliprane=antalgique (donc non concerné).,Un estudio publicado por The Lancet sugirió que los medicamentos AINE como el ibuprofeno o el advil aumentan el número de receptores ACE2 a los que se une el coronavirus. Los jóvenes están siendo resucitados después de tomarlos. Recuerde Doliprane=antalgico (por lo tanto no le concierne).,737,2020-03-14T10:41:35Z,418524,FALSE
-fr,1238778071345434600,TRUE,1,Brevesdepresse,"������INFO -#Covid_19 : la prise d'anti-inflammatoires (ibuprofène, cortisone) pourrait être un facteur d'aggravation de l’infection. En cas de fièvre, prenez du paracétamol. Si vous êtes déjà sous anti-inflammatoires ou en cas de doute, demandez conseil à votre médecin. (ministre)","�������INFO -#Covid_19: Tomar antiinflamatorios (ibuprofeno, cortisona) podría ser un factor para agravar la infección. Si tienes fiebre, toma paracetamol. Si ya está tomando antiinflamatorios o si tiene dudas, pida consejo a su médico. (ministro)",1534,2020-03-14T10:44:42Z,853567,FALSE
-fr,1238780109923942400,TRUE,1,mrccco,"⚠️ Attention la prise d'anti-inflammatoires (ibuprofène/cortisone) peut être un facteur aggravant de l’infection au COVID19. En cas de fièvre/douleurs prenez du paracétamol. Si vous êtes déjà sous AINS ou en cas de doute, contactez votre médecin. Important
-https://t.co/54I3FwLm53","⚠️ Precaución: la toma de antiinflamatorios (ibuprofeno/cortisona) puede ser un factor agravante de la infección por COVID19. En caso de fiebre/dolor tomar paracetamol. Si ya está tomando AINEs o si no está seguro, contacte con su médico. Importante
-https://t.co/54I3FwLm53",273,2020-03-14T10:52:48Z,80213,FALSE
-fr,1238780185148821500,TRUE,1,CollectInterHop,"#CORONAVIRUS ⚠️ #COVIDー19 | La prise d'anti-inflammatoires (ibuprofène, cortisone, ...) pourrait être un facteur d'aggravation de l’infection. En cas de fièvre, prenez du paracétamol. Si vous êtes déjà sous anti-inflammatoires ou... https://t.co/aGcwOlvP3P via @franceinfo","#CORONAVIRUS ⚠️ #COVIDー19 | Tomar antiinflamatorios (ibuprofeno, cortisona, ...) podría agravar la infección. En caso de fiebre, tome paracetamol. Si ya está tomando medicamentos antiinflamatorios o ... https://t.co/aGcwOlvP3P via @franceinfo",221,2020-03-14T10:53:06Z,367128,FALSE
-fr,1238780538498044e3,TRUE,1,actupsudouest,"⚠️ #COVIDー19 | La prise d'anti-inflammatoires (ibuprofène, cortisone, ...) pourrait être un facteur d'aggravation de l’infection. En cas de fièvre, prenez du paracétamol. 
-Si vous êtes déjà sous anti-inflammatoires ou en cas de doute, demandez conseil à votre médecin.","⚠️ #COVIDー19 | Tomar antiinflamatorios (ibuprofeno, cortisona, ...) podría ser un factor para agravar la infección. En caso de fiebre, tome paracetamol. 
-Si ya está tomando antiinflamatorios o si tiene dudas, pida consejo a su médico.",362,2020-03-14T10:54:30Z,456806,FALSE
-de,1238782938344554500,FALSE,2,MedUni_Wien,"Achtung, bei den derzeit kursierenden WhatsApp-Text- und Sprachnachrichten rund um angebliche Forschungsergebnisse der ""Wiener Uniklinik"" zu einem Zusammenhang zwischen Ibuprofen und Covid19 handelt es sich um #FakeNews, die in keinerlei Verbindung mit der #MedUniWien stehen.","Atención, los mensajes de texto y de voz de WhatsApp que circulan actualmente sobre los supuestos resultados de la investigación de la ""Wiener Uniklinik"" sobre una conexión entre el Ibuprofeno y el Covid19 son #FakeNews, que no están conectados con el #MedUniWien.",4154,2020-03-14T11:04:02Z,5195573,FALSE
-fr,1238783704220254200,TRUE,1,FatiHassane,"Contre le #COVID19
-✅ Paracetamol 
-✅ Doliprane
-✅ Efferalgan
-✅ Dafalgan
-✅ Tylenol
-✅ Panadol
-*En respectant le dosage*
-
-❌ Nurofen
-❌ Advil
-❌ Ibuprofen https://t.co/Dy3RaTgawj","Contra #COVID19
-✅ Paracetamol 
-✅ Doliprane
-✅ Efferalgan
-✅ Dafalgan
-✅ Tylenol
-✅ Panadol
-*Respetando la dosis*
-
-❌ Nurofen
-❌ Advil
-❌ Ibuprofeno https://t.co/Dy3RaTgawj",9120,2020-03-14T11:07:05Z,0,FALSE
-de,1238784775369916400,FALSE,1,Kuroyukosan,"Aktuell sind #Fakenews unterwegs bezüglich Ibuprofen. Diese besagt, das Ibuprofen das #coronavirus verstärken würde und bezieht sich mit dieser Aussage auf das Uniklinikum Wien. Das ist ein FAKE! Ich habe persönlich as Klinikum angerufen und dort nachgefragt. Bitte teilt dies.","Actualmente #Fakenews están en camino con respecto al Ibuprofeno. Esta declaración dice que el Ibuprofeno amplificaría el #coronavirus y se refiere con esta declaración al Hospital Universitario de Viena. ¡Esto es un FALSO! He llamado personalmente a la clínica y he preguntado allí. Por favor, comparte esto.",58,2020-03-14T11:11:20Z,60610,FALSE
-fr,1238788059501559800,TRUE,1,DidierMaisto,"#COVIDー19 Les anti-inflammatoires seraient un facteur aggravant. Privilégier, en cas de fièvre, le paracétamol. Éviter l'ibuprofène et la cortisone. Source : ministère de la Santé.","#COVIDー19 Los antiinflamatorios serían un factor agravante. Si tiene fiebre, use paracetamol. Evite el ibuprofeno y la cortisona. Fuente: Departamento de Salud.",262,2020-03-14T11:24:23Z,249449,FALSE
-fr,1238790945749053400,TRUE,2,Le_Figaro,"⚠ La prise d'ibuprofène pourrait aggraver l'infection au #coronavirus . En cas de fièvre, le ministre de la Santé recommande de prendre du paracétamol!
-➡ Une information à faire circuler.  https://t.co/Yc1xGkU03s https://t.co/ZKzHfrXTIt","⚠ Tomar ibuprofeno puede agravar la infección por #coronavirus. ¡En caso de fiebre, el Ministro de Salud recomienda tomar paracetamol!
-➡ Información que se distribuirá. https://t.co/Yc1xGkU03s https://t.co/ZKzHfrXTIt",1107,2020-03-14T11:35:51Z,1493019,TRUE
-fr,1238799903519838200,TRUE,3,Conflits_FR,���� À PARTAGER : Ne prenez pas d'Ibuprofene ou de cortisone contre le #coronavirus. Le Ministre de la santé @olivierveran confirme que les anti inflammatoires pourraient aggraver l'infection au #COVIDー19. Prenez du paracetamol ou appelez votre médecin. #Covid_19 #COVID19,��� PARA COMPARTIR: No tomes Ibuprofeno o cortisona para el #coronavirus. El Ministro de Salud @olivierveran confirma que los antiinflamatorios podrían empeorar la infección del #COVIDー19. Tome paracetamol o llame a su médico. #Covid_19 #COVID19,3649,2020-03-14T12:11:27Z,3181436,FALSE
-de,1238801610555502600,FALSE,1,lenaputtfarcken,"Gerade geht auf WhatsApp und Co. eine Sprachnachricht rum, in der die ""Mama von Poldi"" erzählt, dass Ibuprofen die Auswirkungen des #Coronavirus verschlimmert. Das hätte die Uniklinik Wien beobachtet. Dazu ein Thread. (1/x)","WhatsApp y Co. acaban de recibir un mensaje de voz diciendo que ""la madre de Poldi"" dice que el Ibuprofeno está empeorando los efectos del virus #Corona. Esto habría sido observado por la Clínica Universitaria de Viena. Además de un hilo. (1/x)",180,2020-03-14T12:18:14Z,208703,FALSE
-de,1238805916608315400,FALSE,2,derspiegel,Aus aktuellem Anlass: Es kursieren derzeit viele Falschmeldungen und Kettenbriefe im Zusammenhang mit dem #Coronavirus. Auch eine WhatsApp-Nachricht über einen angeblichen Zusammenhang zwischen Covid19 und Ibuprofen ist laut Universität Wien eine Falschmeldung. https://t.co/F8pKXUdRk5,Debido a los recientes acontecimientos: Actualmente hay muchos informes falsos y cartas en cadena circulando en relación con el #Coronavirus. También un mensaje de WhatsApp sobre una supuesta conexión entre el Covid19 y el Ibuprofeno es un informe falso según la Universidad de Viena. https://t.co/F8pKXUdRk5,389,2020-03-14T12:35:21Z,586675,TRUE
-de,1238812871913586700,FALSE,2,ZDDK_,"Das stimmt nicht --&gt; #Ibuprofen steht im Verdacht, den Verlauf des #Corona #Virus zu erschweren. Bitte die Info weiter geben. Es stützt sich auf eine Untersuchung, die über die heftigen Fälle in #Italien durchgeführt wurde.
-Weiterlesen und weitergeben: https://t.co/KWH8oIyxrv","Eso no es cierto --; se sospecha que el #Ibuprofeno complica el curso del virus #Corona #. Por favor, transmita la información. Se basa en una investigación que se llevó a cabo sobre los casos graves en Italia.
-Lea y páselo a: https://t.co/KWH8oIyxrv",84,2020-03-14T13:02:59Z,71154,TRUE
-de,1238814043550486500,FALSE,1,bmsgpk,"Derzeit werden vermehrt Falschmeldungen verbreitet, in denen behauptet wird, dass der Wirkstoff Ibuprofen in Schmerzmitteln die Ausbreitung des #Coronavirus verstärkt. Bitte helfen Sie mit, die Verbreitung dieser Fake-News zu stoppen u sie richtig zu stellen. #covid19 https://t.co/XQuLI5U3e3","Actualmente, hay un número creciente de informes falsos que afirman que el ingrediente activo ibuprofeno en los analgésicos aumenta la propagación del #Coronavirus. Por favor, ayuden a detener la difusión de estas noticias falsas y a corregirlas. #covid19 https://t.co/XQuLI5U3e3",577,2020-03-14T13:07:38Z,586662,FALSE
-fr,1238814509290197e3,TRUE,2,lemondefr,"Contre le #Covid19, le ministre de la santé recommande de ne pas prendre d’ibuprofène. « En cas de fièvre, prenez du paracétamol. » https://t.co/G6fPjhBFUS","Contra el #Covid19 , el Ministro de Salud recomienda no tomar ibuprofeno. ""En caso de fiebre, tome paracetamol. "" https://t.co/G6fPjhBFUS",621,2020-03-14T13:09:29Z,773289,TRUE
-de,1238815009989329e3,FALSE,2,univienna,"Achtung - Fake News: Derzeit werden Nachrichten in Social Media-Kanälen verbreitet, rund um Ibuprofen und einer angeblichen Verstärkung von COVID19-Symptomen. Dabei handelt es sich um Fake News! Es gibt keine derartigen Studien der Universität Wien.","Atención - Noticias falsas: Actualmente, se están difundiendo noticias en los canales de medios sociales sobre el ibuprofeno y un supuesto aumento de los síntomas de COVID19. ¡Estas son noticias falsas! No hay estudios de este tipo en la Universidad de Viena.",352,2020-03-14T13:11:29Z,956794,TRUE
-it,1238826512914186200,TRUE,1,ultimenotizie,"Prendere farmaci antiinfiammatori, contenenti ibuprofene o cortisone ad esempio, ""potrebbe essere un fattore aggravante dell'infezione"" nei malati di #coronavirus: E' l'avvertimento del ministro della Salute francese, Olivier Ve'ran.","Tomar antiinflamatorios, que contengan ibuprofeno o cortisona por ejemplo, ""podría ser un factor agravante de la infección"" en pacientes con #coronavirus: Esta es la advertencia del Ministro de Salud francés, Olivier Ve'ran.",30,2020-03-14T13:57:11Z,127145,FALSE
-es,1238827693615067100,TRUE,3,aschapire,"Coronavirus: los antiinflamatorios (ibuprofeno, cortisona...) pueden agravar la infección. Si tienen fiebre, tomen paracetamol. Si están ya con antiinflamatorios o tienen dudas, consulten con el médico. Ministro de Salud de Francia. https://t.co/V5pa0iFmDb",,1569,2020-03-14T14:01:53Z,2015613,TRUE
-de,1238832055665995800,FALSE,2,WDRaktuell,"Im Netz verbreitet sich eine Nachricht, in der behauptet wird, dass #Ibuprofen die Anfälligkeit für eine #Coronavirus-Infektion erhöht. Laut der Nachricht hätten Forscher der Uniklinik Wien das herausgefunden. Die Universität hat sich davon distanziert und spricht von #FakeNews. https://t.co/KBh8XZEqgu","Un mensaje se está extendiendo en la red afirmando que el #Ibuprofeno aumenta la susceptibilidad a la infección del #Coronavirus. Según las noticias, los investigadores del Hospital Universitario de Viena han descubierto. La universidad se ha distanciado de esto y habla de #FakeNews. https://t.co/KBh8XZEqgu",294,2020-03-14T14:19:13Z,2894950,TRUE
-fr,1238838015209988e3,TRUE,2,Le_Figaro,"⚠ La prise d’anti-inflammatoires non stéroïdiens pourrait être lié à des formes graves de Covid-19 chez des sujets jeunes et en bonne santé!
-Une information à faire passer.  https://t.co/WWc3bg9cJZ","⚠ El consumo de antiinflamatorios no esteroideos puede estar relacionado con formas graves de Covid-19 en personas jóvenes y saludables.
-Una información para transmitir. https://t.co/WWc3bg9cJZ",233,2020-03-14T14:42:53Z,304662,TRUE
-de,1238840932474278e3,FALSE,1,DLFNachrichten,"Achtung! Aktuell kursieren vor allem auf WhatsApp Audio-Botschaften mit falschen Informationen zum Coronavirus.  
-https://t.co/n92QTAELri #COVIDー19
-#FakeNews #WhatsApp #Ibuprofen #COVID19de #CoronaVirusDE #coronavirus #coronadeutschland #Corona #Medien #CoronaVirusUpdate","¡Cuidado! Actualmente, circulan mensajes de audio con información falsa sobre el virus corona, especialmente en WhatsApp.  
-https://t.co/n92QTAELri #COVIDー19
-#FakeNews #WhatsApp #Ibuprofeno #COVID19en #CoronaVirusDE #coronavirus #coronadeutschland #Corona #Medien #CoronaVirusUpdate",88,2020-03-14T14:54:29Z,2995927,FALSE
-nl,1238840992805068800,TRUE,1,heyitschelsy,Ontstekingsremmers (zoals ibuprofen) kunnen blijkbaar de infectie van Corona verergeren!!! Het wordt daarom aangeraden om bij koorts paracetamol te nemen in de plaats! #RT,"Los inhibidores de la inflamación (como el ibuprofeno) pueden aparentemente agravar la infección de Corona! Por lo tanto, se recomienda tomar paracetamol en caso de fiebre. #RT",47,2020-03-14T14:54:43Z,24912,FALSE
-de,1238843505885266e3,FALSE,2,tagesschau,"Was für das Virus gilt, gilt auch für Falschmeldungen: Nicht weiterverbreiten! #COVIDー19 #COVID19de #Hamsterkaeufe #Ibuprofen #WirvsVirus @BMG_Bund @MedUni_Wien https://t.co/SSFU7D5Ors",Lo que se aplica al virus también se aplica a los falsos positivos: ¡No lo extienda! #COVIDー19 #COVID19en #Compras de hámster #Ibuprofeno #WirvsVirus @BMG_Bund @MedUni_Wien https://t.co/SSFU7D5Ors,586,2020-03-14T15:04:43Z,548653,TRUE
-nl,1238852830741573600,TRUE,1,meer_irma,"Draadje.  Waarschuwing: gebruik GEEN ontstekingsremmers bij corona!
-
-De Franse minister van Volksgezondheid Olivier Véran waarschuwt burgers voor het gebruik van ontstekingsremmers, zoals ibuprofen en cortison. Ook acetylsalicylzuur (aspirine) valt hieronder.
-
-Het innemen van &gt;&gt;&gt;","Hilo.  Advertencia: ¡NO use antiinflamatorios en la corona!
-
-El ministro de salud francés Olivier Véran advierte a los ciudadanos contra el uso de drogas antiinflamatorias como el ibuprofeno y la cortisona. También se incluye el ácido acetilsalicílico (aspirina).
-
-La ingestión de",15,2020-03-14T15:41:46Z,29756,FALSE
-fr,1238861173967241200,TRUE,1,ecsdmed,"La prise d'anti-inflammatoires (ibuprofène, corticoïde, etc.) pourrait aggraver une infection au #Covid_19. Par précaution privilégiez le paracétamol en cas de fièvre. En cas de doute consultez un médecin.","Tomar antiinflamatorios (ibuprofeno, corticoides, etc.) podría agravar una infección #Covid_19. Como precaución, se debe usar paracetamol en caso de fiebre. En caso de duda, consulte a un médico.",228,2020-03-14T16:14:55Z,73388,FALSE
-nl,1238867126393491500,FALSE,1,JustFunny12,"Oké mensen:
-
-Dat is met een paracetamol en een ibuprofen tegelijk in mijn mik.
-Droge blafhoest, neus vrij, opgezette lymfeklieren.
-
-Zelfde foto al naar het werk gestuurd. Gezien de aangescherpte richtlijnen: #ikblijfthuis #coronavirusNederland
-
-Het is me de verjaardag wel, zeg�� https://t.co/XrD8LQEWQd","Muy bien, amigos:
-
-Eso es con un paracetamol y un ibuprofeno en el ojo al mismo tiempo.
-Tos seca, ladridos, nariz libre, ganglios linfáticos inflamados.
-
-La misma foto enviada al trabajo. Dadas las directrices afiladas: #Coronavirus en casa# Países Bajos
-
-Pero es mi cumpleaños. https://t.co/XrD8LQEWQd",15,2020-03-14T16:38:34Z,18828,FALSE
-ca,1.2388754723244319e+18,TRUE,2,VilaWeb,El govern francès recomana el paracetamol davant els dubtes que es presenten amb l’ibuprofèn https://t.co/EycgpoO1tR,,43,2020-03-14T17:11:44Z,57867,FALSE
-ca,1238876167962230800,TRUE,2,vpartal,El govern francès recomana el paracetamol davant els dubtes que es presenten amb l’ibuprofèn https://t.co/UmD79X4opA,,67,2020-03-14T17:14:30Z,71168,FALSE
-de,1238887521041424400,FALSE,1,Anaesthet1,"Bitte:
-- teilt KEINE Bilder von leeren Regalen. Hamsterkäufe sind nach wie vor nicht notwendig.
-- teilt KEINE vermeintlichen ""heissen Tipps"" oder resserischen News. Wie die Ibuprofen-Sprachnachricht gibt es eine hohe Fake-Wahrscheinlichkeit
-- bleibt zu Hause","Por favor:
-- NO comparta fotos de estantes vacíos. Las compras de hámster aún no son necesarias.
-- no comparte ningún supuesto ""consejo caliente"" o noticias inflamatorias. Como el correo de voz del Ibuprofeno, hay una alta probabilidad de falsificación
-- se queda en casa",75,2020-03-14T17:59:37Z,33873,FALSE
-it,1238892634380349400,TRUE,3,MirkoBusto,"#Coronavirus: se avete sintomi non prendete #ibuprofene.
-Assumere anti-infiammatori contenenti ibuprofene o #cortisone potrebbe essere un fattore aggravante dell'infezione nei malati di coronavirus.
-https://t.co/QU7Fygp4Ls","#Coronavirus: Si tienes síntomas no tomes #ibuprofeno.
-Tomar antiinflamatorios que contengan ibuprofeno o #cortisona podría ser un factor agravante de la infección en pacientes con coronavirus.
-https://t.co/QU7Fygp4Ls",14,2020-03-14T18:19:56Z,17116,TRUE
-fr,1238901323988439e3,TRUE,1,Elinezadd,"Très important ça peut servir, ne prenez surtout pas d’IBUPROFEN ou de NUROFEN ! Uniquement Doliprane ou Paracetamol !!! L’ibuprofen et nurofen accentuent les effets du virus !!! Faites tournez","Es muy importante que pueda ser útil, ¡no tome IBUPROFEN o NUROFEN! ¡¡Sólo Doliprane o Paracetamol!! El ibuprofeno y el nurofeno acentúan los efectos del virus. Gira",248,2020-03-14T18:54:27Z,8956745,FALSE
-es,1238908034082095e3,FALSE,1,pmarsupia,"OJO. Por lo visto hay un mensaje circulando que habla sobre el Ibuprofeno y el coronavirus citando una ""investigación de la Facultad de Medicina de Viena"". La Universidad de Viena dice que es un bulo.�� https://t.co/r7f3vMEzVc",,343,2020-03-14T19:21:07Z,1164302,FALSE
-es,1238912639721525200,TRUE,2,el_pais,"“Los antiinflamatorios (ibuprofeno, cortisona…) podrían agravar la infección. Si tiene fiebre, tome paracetamol”, ha tuiteado el ministro de Salud francés. La radio allí informa de que los casos más graves son los que tomaron ibuprofeno #coronavirus https://t.co/A4IzMcuVkD",,2725,2020-03-14T19:39:25Z,5325884,TRUE
-de,1238913028348948500,FALSE,1,stephanpalagan,"Boah Leute, so doof kann doch niemand sein! Die Gefahr des #Corona-Virus verharmlosen, weil man dem @rki_de Robert Koch-Institut nicht glaubt, aber vor Ibuprofen warnen, weil die MUTTER VOM POLDI eine Sprachnachricht auf WhatsApp aufgenommen hat...
-
-Himmelarschundzwirnnochmal.","¡Chicos, nadie podría ser tan estúpido! Trivializa el peligro del virus #Corona porque no crees en el @rki_de Robert Koch-Institut, pero advierte contra el Ibuprofeno porque la MADRE DE POLDI grabó un mensaje de voz en WhatsApp...
-
-El cielo se ha vuelto a torcer.",297,2020-03-14T19:40:58Z,435825,FALSE
-de,1238914960622846e3,FALSE,2,aktuelle_stunde,"Ibuprofen und Aspirin verstärken die Corona-Erkrankung, bestätigt durch die Uniklinik Wien? Eine absolute Falschmeldung, da ist nichts dran, sagt unser Lungenfacharzt Doc Esser. https://t.co/Hl6X5fC7Kv","El ibuprofeno y la aspirina intensifican la enfermedad de la corona, confirmada por el Hospital Universitario de Viena? Un completo engaño, no hay nada de eso, dice nuestro especialista pulmonar Doc Esser. https://t.co/Hl6X5fC7Kv",182,2020-03-14T19:48:39Z,3211375,TRUE
-de,1238923162043252700,FALSE,1,scholzseal67,"@LeFloid Teil das bitte, damit sich der Blödsinn nicht weiter verbreitet. Danke. https://t.co/50foY98w0o","@LeFloid Part esto por favor, para que el sinsentido no se extienda más. Gracias. https://t.co/50foY98w0o",105,2020-03-14T20:21:14Z,1162488,FALSE
-ca,1238955700711239700,FALSE,1,xavidomenech99,"S'havia fet còrrer el rumor que l'Ibuprofen i l'Aspirina agreujaven les infeccions per #COVID19, segons un estudi del Hospital Universitari de Viena. És #fakenewsvirus. Ho confirma per TV el pneumòleg Doc Esser. https://t.co/HsX0E5LKFt",,28,2020-03-14T22:30:32Z,68546,FALSE
-fr,1238961014860845e3,TRUE,3,Conflits_FR,"���� À PARTAGER : Ne prenez pas d'Ibuprofene ou de cortisone contre le #coronavirus. Le Ministre de la santé @olivierveran affirme que les anti inflammatoires pourraient aggraver l'infection au #COVIDー19. Prenez du paracetamol, dans le doute : �� votre médecin. #Covid_19 #COVID19",��� PARA COMPARTIR: No tomes Ibuprofeno o cortisona para el #coronavirus. El Ministro de Salud @olivierveran dice que los antiinflamatorios podrían empeorar la infección #COVIDー19. Tome paracetamol en caso de duda: �� su médico. #Covid_19 #COVID19,1400,2020-03-14T22:51:39Z,1050355,FALSE
-es,1238978260832342e3,TRUE,2,europapress,El ministro de Sanidad francés alerta de que tomar ibuprofeno y otros antiinflamatorios puede empeorar el coronavirus y recomienda a quienes tengan fiebre que tomen paracetamol https://t.co/pKiFzGwtKv,,344,2020-03-15T00:00:11Z,803236,TRUE
-es,1238983098597101600,TRUE,2,electo_mania,"IMPORTANTE
-
-El Ministro de Sanidad francés indica que varios casos graves de población joven habían tomado Ibuprofeno de más de 400mg o cortisona. Se recomienda ante episodios de fiebre recurrir al Paracetamol y consultar con el médico.
-
-https://t.co/EqNRLwPZK9 https://t.co/SgDP0SHd4x",,391,2020-03-15T00:19:24Z,566843,FALSE
-ca,1239086427968696300,TRUE,2,VilaWeb,"El govern francès recomana el paracetamol arran dels dubtes que es presenten amb l’ibuprofèn
-https://t.co/Eycgpp5Clp",,42,2020-03-15T07:10:00Z,34562,FALSE
-ca,1239119886472949800,TRUE,2,VilaWeb,El govern francès recomana el paracetamol arran dels dubtes que es presenten amb l’ibuprofèn https://t.co/EycgpoO1tR,,20,2020-03-15T09:22:57Z,16889,FALSE
-ca,123912263913173e4,TRUE,4,GenteQueLucha,"A ver si el problema no va a ser el coronavirus... 
-#Spain #YoMeQuedoEnCasa #ibuprofeno https://t.co/jFucudCFyQ",,21,2020-03-15T09:33:53Z,120072,FALSE
-ca,1239123377119465500,TRUE,4,GenisPinart,"Si heu de viatjar, intenteu anar discretament en un sol cotxe 
-
-#paisdepandereta #155coronavirus #ibuprofeno https://t.co/G8kJmiS7zo",,14,2020-03-15T09:36:49Z,11323,FALSE
-es,1239137080535650300,TRUE,3,lavecinarubia,"⚠️#COVIDー19 Tomar medicamentos antiinflamatorios (ibuprofeno, cortisona, ...) podría ser un factor agravante de la infección. Si tiene fiebre, tome paracetamol. 
-Si ya está tomando medicamentos antiinflamatorios o tiene dudas, consulte a su médico. https://t.co/GWBGMWsegZ",,357,2020-03-15T10:31:16Z,212240,TRUE
-nl,1239148830182039600,TRUE,1,peter_persyn,"AANDACHT
-BIJ KOORTS IKV CORONA GEWOON PARACETAMOL NEMEN
-VOOR JONG EN OUD
-
-GEEN ASPIRINE OF IBUPROFEN, OF VERWANTE PRODUCTEN
-KUNNEN NADELIGE GEVOLGEN HEBBEN OP VERLOOP
-
-&gt;Berichten uit Franse spoeddiensten
-&gt;Nadelige invloed ontstekingsremmers op virale infecties is al langer gekend","ATENCIÓN
-EN CASO DE FIEBRE IV CORONA SOLO TOMA PARACETAMOL
-PARA JÓVENES Y VIEJOS
-
-SIN ASPIRINA O IBUPROFENO, O PRODUCTOS RELACIONADOS
-PUEDE TENER UN EFECTO ADVERSO EN EL VOLUMEN DE NEGOCIOS
-
-Mensajes de los servicios de emergencia franceses
-El efecto adverso de los medicamentos antiinflamatorios en las infecciones virales se conoce desde hace tiempo.",122,2020-03-15T11:17:58Z,205014,FALSE
-ca,1239159985063497700,TRUE,2,naciodigital,"França avisa que l'ibuprofèn empitjora el coronavirus. El ministre de Sanitat aconsella prendre paracetamol si es tenen símptomes
-https://t.co/HbFm6IXZGd",,58,2020-03-15T12:02:17Z,34906,TRUE
-ca,1239160874880958500,TRUE,2,naciodigital,França avisa que l'ibuprofèn empitjora el coronavirus https://t.co/HbFm6IXZGd,,27,2020-03-15T12:05:49Z,59344,TRUE
-ca,1239160876223139800,TRUE,2,naciodigital,El ministre de Sanitat aconsella prendre paracetamol si es tenen símptomes i que els antiinflamatoris han empitjorat la situació d'alguns pacients https://t.co/HbFm6IXZGd,,16,2020-03-15T12:05:50Z,35949,TRUE
-ca,1239170672959672300,FALSE,1,jordigost,@Espemartn7 @rafaruiz28 @Ramipril_ @SoVaMFiC Nota informativa sobre la seguretat de l’ús d’ibuprofèn en el context de la infecció per coronavirus SARS-CoV-2 https://t.co/9GE3vnIXv0,,14,2020-03-15T12:44:45Z,50140,FALSE
-ca,1239188182052331500,FALSE,1,lore_efyc,�� Arran d’unes declaracions mitjançant un tweet del Ministre Francès de Salut recomanant evitar l’ús d’ibuprofèn en el context del #coronavirus SARS-CoV 2  el Programa d’Harmonització Farmacoterapèutica del @salutcat ha fet una nota informativa. https://t.co/diPsQfBouq,,13,2020-03-15T13:54:20Z,45264,FALSE
-ca,1239192124504952800,TRUE,2,VilaWeb,"El govern francès recomana el paracetamol arran dels dubtes que es presenten amb l’ibuprofèn
-
-https://t.co/Eycgpp5Clp",,14,2020-03-15T14:10:00Z,16344,FALSE
-es,1239197456761532400,TRUE,1,doctormacias,En Francia han relacionado tomar ibuprofeno (Advil) con el deterioro de un cuadro preexistente de Covid-19. El ministro de salud advierte no tomarlo en enfermedad respiratoria febril y aconseja preferir el paracetamol.  https://t.co/EfI7vA7eDg,,608,2020-03-15T14:31:11Z,0,FALSE
-es,1239197585455407e3,FALSE,2,sanidadgob,"La @AEMPSGOB informa que ningún dato indica que el
-ibuprofeno agrave las infecciones por #COVIDー19 
-La posible relación entre la exacerbación de infecciones con ibuprofeno y ketoprofeno se están evaluando para toda la UE en el Comité de Evaluación de Riesgos en Farmacovigilancia",,2889,2020-03-15T14:31:42Z,6950431,TRUE
-es,1239198403508174800,FALSE,2,sanidadgob,"��Los pacientes que estén en tratamiento crónico con ibuprofeno o ketoprofeno no deben interrumpirlo 
-
-Se recomienda el uso de paracetamol para el tratamiento de la fiebre, pero no está contraindicado el uso del ibuprofeno en el tratamiento de síntomas menores",,1029,2020-03-15T14:34:57Z,2501059,TRUE
-es,1239200928231829500,FALSE,2,AEMPSGOB,La AEMPS informa que ningún dato indica que el ibuprofeno agrave las infecciones por COVID-19 https://t.co/siY0xxo5po https://t.co/iPFzy8SZAB,,1273,2020-03-15T14:44:59Z,2248889,FALSE
-es,1239201896323260400,FALSE,3,Farmaenfurecida,Sobre el Ibuprofeno y el Coronavirus: https://t.co/WwBh8SzrYG,,329,2020-03-15T14:48:49Z,357392,FALSE
-es,1239202442551521300,TRUE,2,el_pais,"“Tomar ibuprofeno podría empeorar la infección. Si tiene fiebre, tome paracetamol"", tuiteó el ministro de Salud francés, pero el Ministerio de Sanidad español recomienda “analgésicos habituales (paracetamol o ibuprofeno)” en los casos leves de coronavirus https://t.co/5zXI3Ea7Xq",,380,2020-03-15T14:51:00Z,516615,TRUE
-ca,1239218815826870300,FALSE,2,COMBarcelona,#COVID19 �� El Departament de Salut @salutcat publica aquesta nota informativa sobre la seguretat de l’ús d’#ibuprofèn en el context de la infecció per #coronavirus SARS-CoV-2 https://t.co/wfgsmOa8E1 https://t.co/GcJTyy9QCd,,24,2020-03-15T15:56:03Z,10607,FALSE
-it,1239222355479724e3,TRUE,1,byoblu,Niente Ibuorofene e Fans per chi ha il #coronavirus. Aggravano la situazione. https://t.co/9ymthyrzxd,No hay Ibuorofeno ni AINEs para el #coronavirus. https://t.co/9ymthyrzxd,20,2020-03-15T16:10:07Z,41483,FALSE
-ca,1239224206098923500,FALSE,2,salutcat,❌ NO hi ha cap nova evidència ni motius per establir una contraindicació de l’#ibuprofèn com a tractament de símptomes menors �� https://t.co/XcRuSKR88D,,155,2020-03-15T16:17:29Z,535270,TRUE
-de,1239248787006271500,FALSE,2,BAG_OFSP_UFSP,"#CoronaInfoCH #Coronavirus
-Ist Ibuprofen gefährlich bei einer Infektion mit dem Coronavirus? Zurzeit haben wir dafür keine Beweise. Zur Fieberbekämpfung bei einer Erkrankung verwenden Sie aber besser ein Medikament auf Basis von Paracetamol. 1/2","#CoronaInfoCH Coronavirus
-¿Es peligroso el ibuprofeno en caso de infección por coronavirus? No tenemos pruebas de eso ahora mismo. Sin embargo, para controlar la fiebre en caso de enfermedad, es mejor utilizar una droga basada en el paracetamol. 1/2",53,2020-03-15T17:55:09Z,90549,TRUE
-it,1239249453586022400,TRUE,2,BAG_OFSP_UFSP,"#CoronaInfoCH #Coronavirus 
-L’ibuprofene è pericoloso in caso d’infezione da coronavirus? Al momento non è dimostrato. Tuttavia, per ridurre la febbre optare piuttosto per il paracetamolo. 1/2","#CoronaInfoCH #Coronavirus 
-L’ibuprofene è pericoloso in caso d’infezione da coronavirus? Al momento non è dimostrato. Tuttavia, per ridurre la febbre optare piuttosto per il paracetamolo. 1/2",10,2020-03-15T17:57:48Z,33869,TRUE
-ca,1239261199721803800,FALSE,2,324cat,"Salut diu que l'ibuprofèn no agreuja el coronavirus
-https://t.co/uEQPUu8tAl https://t.co/mG11x1Tip0",,53,2020-03-15T18:44:29Z,21010,TRUE
-es,1239277191780655e3,TRUE,1,DrPacoMoreno1,"Existen reportes que indican mayor riesgo de una infección severa por #COVID2019 con el uso de ibuprofeno, ketoprofeno, naproxeno, aspirina y diclofenaco. Por el momento sugiero de Paracetamol para control de fiebre y malestar en pacientes infectados por #COVIDー19.",,1516,2020-03-15T19:48:01Z,1298799,FALSE
-ca,1239297820919619600,FALSE,2,btvnoticies,"Salut nega que l’ibuprofèn agreugi la infecció per coronavirus
-
-El Departament desmenteix així la recomanació del ministre de Sanitat de França
-
-https://t.co/CTAuASJ7LA",,16,2020-03-15T21:10:00Z,17335,TRUE
-es,1239320497407524900,TRUE,2,Beadrian,"Información que distribuye el gobierno Francés sobre medicamento para aliviar Coronavirus: No tomar anti-inflamatorios (ibuprofeno, cortisona) podría agravar la infección. En caso de fiebre, tome paracetamol.",,1125,2020-03-15T22:40:06Z,0,TRUE
-ca,1239321728460845e3,FALSE,2,324cat,"Sanitat prioritza el paracetamol per al tractament simptomàtic de la febre, però assegura que no hi ha proves que l'ibuprofèn estigui contraindicat
-https://t.co/uEQPUtQSbL",,46,2020-03-15T22:45:00Z,21364,TRUE
-es,1239366546079846400,TRUE,4,abogadosvenezu1,"Médicos��italianos���� han señalado que presuntamente el Ibuprofeno facilita la reproducción del coronavirus �� y recomiendan que bajo ningún respecto tomen aspirina, ibuprofeno o Naproxeno, solamente tomen Paracetamol o Acetaminophen, PERO SI PUEDES, POR FAVOR #quedateEnTuCasa https://t.co/7a7TKy4nwJ",,1795,2020-03-16T01:43:05Z,2029507,FALSE
-nl,1239435248020213800,TRUE,2,ADnl,Specialisten: slik bij voorkeur paracetamol bij coronavirus en geen ibuprofen https://t.co/8KhrIhukI8,Especialistas: preferiblemente ingerir paracetamol con coronavirus y sin ibuprofeno https://t.co/8KhrIhukI8,55,2020-03-16T06:16:05Z,50473,TRUE
-nl,1239445435015737300,TRUE,1,Apothekers,"Specialisten: slik bij voorkeur paracetamol bij coronavirus en geen ibuprofen
-
-https://t.co/WTAGB9gsrd","Especialistas: preferiblemente ingerir paracetamol con coronavirus y sin ibuprofeno
-
-https://t.co/WTAGB9gsrd",10,2020-03-16T06:56:34Z,10398,FALSE
-nl,1239446801029177300,TRUE,2,parool,Specialisten adviseren patiënten met het coronavirus om paracetamol te slikken in plaats van ibuprofen. https://t.co/MPVC9e0zTi,Los especialistas aconsejan a los pacientes con el coronavirus que tomen paracetamol en lugar de ibuprofeno. https://t.co/MPVC9e0zTi,20,2020-03-16T07:01:59Z,20763,TRUE
-nl,1239467723832336400,TRUE,1,Reezyard,"BELANGRIJK: wat ook in dit artikel (en andere) wordt geadviseerd is ontstekingsremmende medicijnen niet te slikken. Zoals bijvoorbeeld #ibuprofen. Want deze verhogen ook #ACE2.
-
-#Paracetamol als symptoombestrijding van #COVID19 is verstandiger. Dit heeft veel minder bijwerkingen.","IMPORTANTE: Lo que se aconseja en este artículo (y en otros) es no tomar medicamentos antiinflamatorios. Como, por ejemplo, el #ibuprofeno. Porque estos también elevan el #ACE2.
-
-#El paracetamol como supresor de los síntomas de #COVID19 es más sensato. Esto tiene muchos menos efectos secundarios.",10,2020-03-16T08:25:08Z,4694,FALSE
-nl,1239474803796521e3,TRUE,1,caseofdees,Specialisten: slik bij voorkeur paracetamol bij coronavirus en geen ibuprofen https://t.co/1YvgaAdF7m,Especialistas: preferiblemente ingerir paracetamol con coronavirus y sin ibuprofeno https://t.co/1YvgaAdF7m,24,2020-03-16T08:53:16Z,39932,FALSE
-ca,1239475904734265300,FALSE,2,Catmigdia,"✍ FETS O FAKES | Heu llegit que és preferible no prendre ibuprofèn per evitar empitjorar una possible infecció per coronavirus? Què hi ha de cert en aquesta alerta, que ens arriba de França? T'ho expliquem tot. 
-
-https://t.co/ZSUNW0Mw4T",,14,2020-03-16T08:57:38Z,180945,FALSE
-es,1239496010545627100,FALSE,1,Proctologo,"Medicamentos y #Coronavirus:
-
--No usar ibuprofeno para bajar la fiebre, si es mayor a 38,5 usar acetaminofén o paracetamol
-
--Lo de que los antihipertensivos (los que terminan en “sartán” candesartan o valsartán) empeoran la evolución de la enfermedad, AUN NO ESTÁ CONFIRMADO.",,349,2020-03-16T10:17:32Z,765645,FALSE
-nl,1239499840620560400,TRUE,2,AnnemarieGelder,Specialisten: slik bij voorkeur paracetamol bij coronavirus en geen ibuprofen https://t.co/kSD9xwdo8j,Especialistas: preferiblemente ingerir paracetamol con coronavirus y sin ibuprofeno https://t.co/kSD9xwdo8j,28,2020-03-16T10:32:45Z,31687,FALSE
-fr,1239538727757713400,TRUE,2,lemondefr,#Coronavirus : mise en garde contre l’ibuprofène https://t.co/heRwOoPPHF,#Coronavirus: advertencia sobre el ibuprofeno https://t.co/heRwOoPPHF,223,2020-03-16T13:07:16Z,112170,TRUE
-nl,1239545152454168600,FALSE,2,EenVandaag,"Er gaan meerdere verhalen rond dat het innemen van ibuprofen een besmetting van het coronavirus zou verergeren. Is dat waar? 
-
-Nee, zegt hoogleraar Marcel Bouvy: ""Het is totale onzin.""
-
-https://t.co/HeoYYquJKo","Hay varias historias que dicen que tomar ibuprofeno agravaría una infección del coronavirus. ¿Es eso cierto? 
-
-No, el profesor Marcel Bouvy dice: ""Es una tontería total"".
-
-https://t.co/HeoYYquJKo",52,2020-03-16T13:32:48Z,88177,TRUE
-nl,1239546920936378400,FALSE,2,MedicijnNL,"Er is onvoldoende bewijs dat #ibuprofen de corona-infectie verergert. Gebruik van #paracetamol is, ook volgens huisartsen, eerste keuze bij het onderdrukken van koorts. Het medicijn geeft minder bijwerkingen. �� https://t.co/qMEKfJmQmO #COVID19 #coronavirusnl https://t.co/895L1GJEqH","No hay pruebas suficientes de que el #ibuprofeno exacerbe la infección de la corona. El uso de #paracetamol es, también según los médicos generales, la primera opción para suprimir la fiebre. La droga tiene menos efectos secundarios. �� https://t.co/qMEKfJmQmO #COVID19 #coronavirusnl https://t.co/895L1GJEqH",23,2020-03-16T13:39:50Z,22119,FALSE
-nl,1239560981346422800,FALSE,1,Kath_74,"Volgens een bericht in de Lancet hebben veel mensen die ziek zijn Ibuprofen of iets dergelijks geslikt. Dit blijkt Corona te versnellen en je krijgt sepsis. Heel belangrijk dus om dat niet te slikken !!!!   Ook geen Voltarens alleen
-Paracetamol.","Según un informe de The Lancet, muchas personas enfermas han ingerido Ibuprofeno o algo similar. Esto resulta que acelera a Corona y te da sepsis. Es muy importante no tragarse eso!!!!!   Tampoco hay Voltarens solos
-Paracetamol.",9,2020-03-16T14:35:42Z,11118,FALSE
-es,1239571347413532700,TRUE,2,CNNEE,"El Ministerio de Salud de Francia señaló que los analgésicos como el ibuprofeno podrían empeorar los efectos del coronavirus, lo que ha suscitado dudas sobre qué medicamentos de venta libre debería tomar la gente para tratar los síntomas https://t.co/fA0lyq99hH",,846,2020-03-16T15:16:54Z,1047305,TRUE
-nl,1239576188336713700,TRUE,1,LScheldeman,"GEEN NSAID’s (niet-steroïdale ontstekingsremmers) nemen zoals Voltaren, Brufen, Nurofen, Ibuprofen etc.❗️ https://t.co/Ly6thtlspt","NO tome AINEs (antiinflamatorios no esteroideos) como Voltaren, Brufen, Nurofen, Ibuprofen etc.❗️ https://t.co/Ly6thtlspt",15,2020-03-16T15:36:08Z,3135,FALSE
-nl,1239582843698688e3,TRUE,2,destandaard,Gebruik geen ibuprofen (wel Dafalgan) bij symptomen van corona https://t.co/Hf5ZXVGmJP https://t.co/QxfsWK25jH,No use ibuprofeno (sino Dafalgan) para los síntomas de la corona https://t.co/Hf5ZXVGmJP https://t.co/QxfsWK25jH,13,2020-03-16T16:02:34Z,8172,TRUE
-nl,1239585617358422e3,TRUE,2,HLN_BE,"Belangrijk: neem geen ibuprofen, maar wel paracetamol bij coronasymptomen https://t.co/9hL8oT3BPz https://t.co/S1rkcpUiwQ","Importante: no tome ibuprofeno, sino paracetamol para los síntomas de la corona https://t.co/9hL8oT3BPz https://t.co/S1rkcpUiwQ",39,2020-03-16T16:13:36Z,30361,TRUE
-nl,1239589629688512500,TRUE,2,VTMNIEUWS,"Belangrijk: neem geen ibuprofen, maar wel paracetamol bij coronasymptomen
-https://t.co/VeNcmH8wvL","Importante: no tome ibuprofeno, pero sí paracetamol en caso de síntomas de coronación.
-https://t.co/VeNcmH8wvL",31,2020-03-16T16:29:32Z,8295,TRUE
-es,1239589798572146700,FALSE,2,CNNEE,Francia dice que el ibuprofeno puede agravar el coronavirus. Los expertos dicen que hace falta más evidencia https://t.co/NIidJEDS5j,,575,2020-03-16T16:30:13Z,539483,TRUE
-nl,1239590641836982300,TRUE,2,wierdduk,"Mensen, pas op met de medicijnen die je inneemt bij koorts en hoofdpijn. Ibuprofen etc. maken de corona-infectie juist erger. Gebruik eventueel paracetamol: ""Anti-inflammatories may aggravate Covid-19"" https://t.co/5mAZaBskox","Gente, tened cuidado con la medicación que tomáis para la fiebre y los dolores de cabeza. El ibuprofeno, etc. empeora la infección de la corona. Utilice paracetamol si es necesario: ""Los antiinflamatorios pueden agravar el Covid-19"" https://t.co/5mAZaBskox.",141,2020-03-16T16:33:34Z,136044,TRUE
-it,1239604984464969700,TRUE,1,Stefbazzi,"Domanda: 
-Perché le istituzioni oltre a dire di lavarci le mani non ci danno informazioni importanti come questa?
-
-#Coronavirus: Ibuprofene, cortisone e antinfiammatori aggravano l’infezione
-
-continua su: https://t.co/6372P0AZgq
-https://t.co/kPzhxncBpn","Pregunta: 
-¿Por qué las instituciones no sólo nos dicen que nos lavemos las manos sino que nos dan información importante como ésta?
-
-#Coronavirus: El ibuprofeno, la cortisona y los antiinflamatorios agravan la infección
-
-Continúa en: https://t.co/6372P0AZgq
-https://t.co/kPzhxncBpn",72,2020-03-16T17:30:33Z,101615,FALSE
-nl,1239605809014866e3,TRUE,1,Breakingnieuws1,"Breakingnieuws ���� @EenVandaag zegt ibuprofen is geen probleem.  Terwijl net Om 5 uur huisarts zegt.  Het is wel een probleem. 
-Neem dan paracetamol 
-Linkse MSM gelul weer.
-@OmroepON @thierrybaudet @Infocadl2015 @lewinskylou2 @Hannesz1956 @telegraaf @wagensveld1968","Noticias de última hora �������AnToday dice que el ibuprofeno no es un problema.  Mientras que a las 5 en punto el doctor dice.  Es un problema. 
-Entonces toma paracetamol 
-Dejó la mierda de los HSH otra vez.
-@OmroepON @thierrybaudet @Infocadl2015 @lewinskylou2 @Hannesz1956 @telegraph @wagensveld1968",9,2020-03-16T17:33:50Z,24664,FALSE
-nl,1239618136204337200,FALSE,1,DVanLangenhove,"Alle kranten lanceren artikels waarin ze oproepen (obv info van Belgisch Centrum Farmacotherapeutische Informatie en Franse Gezondheidsdienst) om geen ibuprofen te nemen bij coronasymptomen omdat die daardoor verergeren.
-
-In het journaal ontkent @Maggie_DeBlock dit volledig! �� https://t.co/VRmgHZbi0Z","Todos los periódicos publican artículos en los que piden al Centro Belga de Información Farmacéutica y al Servicio de Salud de Francia que se abstengan de tomar ibuprofeno para los síntomas coronarios, ya que éstos empeoran.
-
-En la revista @Maggie_DeBlock lo niega completamente! https://t.co/VRmgHZbi0Z",30,2020-03-16T18:22:49Z,33171,FALSE
-nl,1239657124612976600,TRUE,3,mboudry,"OPGEPAST. Gebruik GEEN ontstekingsremmende NSAID’s (bv. Ibuprofen, nurofen, diclofinac) als je je grieperig voelt. Deze middelen verhogen ACE2-receptoren waardoor coronavirus makkelijker binnendringt. Veel jongeren op intensieve zorg hadden NSAIDs genomen. https://t.co/P3CCMUWfwN","ATTENBOROUGH. NO utilice AINES antiinflamatorios (p. ej., ibuprofeno, nurofeno, diclofinac) si se siente como si fuera gripe. Estos agentes aumentan los receptores ACE2, facilitando la penetración del coronavirus. Muchos jóvenes en cuidados intensivos habían tomado AINEs. https://t.co/P3CCMUWfwN",67,2020-03-16T20:57:44Z,66969,TRUE
-es,1239683929025785900,TRUE,1,TV_DanielS,"8.- Info compartida: ""Si tengo síntomas debo tomar paracetamol pero nunca ibuprofeno"". Verdadero y falso. El único tratamiento paliativo (no cura) es el paracetamol. Sobre ibuprofeno: Francia aconsejó no tomarlo. En España dicen que no hace daño. Mejor quedarse con paracetamol.",,468,2020-03-16T22:44:15Z,0,FALSE
-es,1239872228533186600,TRUE,4,hermanntertsch,"Ferreras, Encinas, Griso, el Ibuprofeno recetado por Escolar en LaSEXTA no funciona: 500 muertos. 
-11.178 casos y 491 fallecidos https://t.co/VJVeIISJ5m vía @ABC_Conocer",,343,2020-03-17T11:12:29Z,665932,TRUE
-de,1239881221519392800,TRUE,2,welt,WHO rät von Einnahme von Ibuprofen bei Coronaverdacht ab https://t.co/Uu6rbl1vKa https://t.co/zOETh2sHR7,La OMS aconseja que no se tome ibuprofeno si se sospecha que hay corona https://t.co/Uu6rbl1vKa https://t.co/zOETh2sHR7,69,2020-03-17T11:48:13Z,40687,TRUE
-de,1239887797466660900,TRUE,2,ntv_EIL,Breaking News: Unklare Wirkung bei Covid-19: WHO rät von Ibuprofen ab.  https://t.co/kC0mvF17FC,Noticias de última hora: Efecto poco claro con Covid-19: la OMS aconseja contra el ibuprofeno. https://t.co/kC0mvF17FC,54,2020-03-17T12:14:21Z,35749,TRUE
-it,1239887846669983700,TRUE,1,AdryWebber,"Coronavirus: ibuprofene, antinfiammatori e cortisone lo aggravano
-
-Vero ,indeboliscono il sistema immunitario
-
-Solo taichipirina (paracetamolo)
-
-Lo sanno anche i polli
- https://t.co/OTi0wMPlyE","Coronavirus: el ibuprofeno, los antiinflamatorios y la cortisona lo agravan.
-
-Cierto, debilitan el sistema inmunológico
-
-Sólo la taichipirina (paracetamol)
-
-Hasta las gallinas lo saben.
- https://t.co/OTi0wMPlyE",9,2020-03-17T12:14:33Z,11036,FALSE
-nl,123988803756954e4,TRUE,1,Percolator_HNJ,De #WHO raadt het gebruik van #ibuprofen af bij de bestrijding van #corona-achtige symptomen. https://t.co/6vwgd175om,El #WHO desalienta el uso de #ibuprofeno en el control de síntomas similares a los de la corona. https://t.co/6vwgd175om,9,2020-03-17T12:15:18Z,4402,FALSE
-de,1239889781968035800,TRUE,2,MalteKaufmann,"#WHO warnt jetzt offiziell vor #Ibuprofen bei #Corona. Gerade GESTERN noch von allen möglichen Stellen als ""#FakeNews"" gebrandmarkt. ��‍♂️��‍♂️��‍♂️
-#COVID2019 #COVID19 #CoronavirusOutbreak #Covid_19","#Quien ahora advierte oficialmente contra el #Ibuprofeno en #Corona. Sólo AYER todavía marcado como ""#FakeNews"" de todos los lugares posibles. ��♂️��♂️��♂️
-#COVID2019 #COVID19 #CoronavirusOutbreak #Covid_19",196,2020-03-17T12:22:14Z,182360,TRUE
-de,1239898632813453300,FALSE,1,drluebbers,"Menschen, die jetzt panisch auf Ibuprofen verzichten, aber weiterhin durch volle Innenstädte flanieren, haben es nicht begriffen.","Las personas que ahora están abandonando el ibuprofeno con pánico, pero que siguen paseando por los atestados centros de las ciudades, no lo han entendido.",191,2020-03-17T12:57:24Z,435323,FALSE
-it,1239921628030664700,TRUE,2,Adnkronos,"#Coronavirus, #Oms: ""Se si sospetta infezione no ibuprofene senza sentire medico"" https://t.co/YxUK8TWi6p https://t.co/iO772nhOo1","#Coronavirus, #Oms: ""Si sospechas de una infección no hay ibuprofeno sin el doctor de la audición"" https://t.co/YxUK8TWi6p https://t.co/iO772nhOo1",13,2020-03-17T14:28:47Z,6560,TRUE
-es,1239922376042823700,TRUE,2,elcomerciocom,La Organización Mundial de la Salud (OMS) desaconseja usar ibuprofeno por síntomas de covid-19. ¿Los anti-inflamatorios no son recomendables para el coronavirus? » https://t.co/H17cG3ZNUv https://t.co/uplZk7vOLg,,478,2020-03-17T14:31:45Z,0,TRUE
-de,1239929676732051500,TRUE,3,lgbeutin,"Mit #Merz, AfD und WerteUnion im Kanzleramt würden Netflix und RTL über #COVID2019 informieren, inkl. Werbeblock für #Ibuprofen und Klopapier. Corona-Krise zeigt: Wir brauchen starken ÖR-Rundfunk, für hochwertigen Journalismus für Alle und ohne Kommerzdruck. https://t.co/obLrqnosYh","Con #Merz, AfD y WerteUnion en la oficina del canciller, Netflix y RTL informarían sobre #COVID2019, incluyendo una pausa comercial para #Ibuprofeno y papel higiénico. La crisis de la corona se muestra: Necesitamos un servicio público de radiodifusión fuerte, para un periodismo de alta calidad para todos y sin presión comercial. https://t.co/obLrqnosYh",66,2020-03-17T15:00:46Z,95447,FALSE
-it,1239930736750313500,TRUE,2,Libero_official,"L'avvertimento dell'#Oms: niente ibuprofene se avete paura di avere il #Coronavirus, ""aumenta il tasso di letalità""  https://t.co/nMhxWmo4zK https://t.co/q9BbNrXjhw","La advertencia de los #Oms: no tomar ibuprofeno si temes tener el #Coronavirus, ""aumentar la tasa de letalidad"" https://t.co/nMhxWmo4zK https://t.co/q9BbNrXjhw",10,2020-03-17T15:04:59Z,3984,FALSE
-nl,1239942573696876500,FALSE,2,louis_ide,Update ibuprofen in @destandaard: er is geen (!) wetenschappelijke onderbouwing dat ibuprofen ziekte door coronavirus zou verergeren. Ook in crisis moeten de principes van de wetenschap gerespecteerd worden. Goed dat @FAGG_be hun communicatie bijstuurde. RT aub. https://t.co/VCxxRRVh81,"Actualiza el ibuprofeno en @thestandard: no hay (!) evidencia científica de que la enfermedad del ibuprofeno por coronavirus empeore. Incluso en crisis, los principios de la ciencia deben ser respetados. Es bueno que @FAGG_be haya ajustado su comunicación. RT por favor https://t.co/VCxxRRVh81",18,2020-03-17T15:52:01Z,21244,TRUE
-it,1239948711498842e3,TRUE,4,giuliomeotti,"La Cina fornisce all'America il 90% di antibiotici, vitamina C, ibuprofene, il 70 di paracetamolo e il 40 di eparina. Ha ragione Mark Steyn, il Partito comunista cinese controlla la catena farmaceutica americana. Ecco perchè Ricciardi tuitta: “Grazie Cina”. La paura fa novanta","China suministra a América el 90% de los antibióticos, la vitamina C, el ibuprofeno, el 70 de paracetamol y el 40 de heparina. Mark Steyn tiene razón, el Partido Comunista Chino controla la cadena farmacéutica americana. Por eso Ricciardi tuitta dice: ""Gracias China"". El miedo hace noventa",27,2020-03-17T16:16:24Z,31852,FALSE
-it,1239961708724015e3,TRUE,2,SkyTG24,L’uso degli anti-infiammatori potrebbe aggravare i sintomi di Covid-19 https://t.co/Q9MTF4ozz3,El uso de antiinflamatorios puede agravar los síntomas de Covid-19 https://t.co/Q9MTF4ozz3,18,2020-03-17T17:08:03Z,87665,TRUE
-ca,1239973904510144500,TRUE,2,elnacionalcat,L'OMS recomana utilitzar paracetamol abans que ibuprofèn contra el coronavirus https://t.co/pyXjDWJ2eh,,16,2020-03-17T17:56:31Z,13556,TRUE
-ca,1239983252544409600,TRUE,2,joseantich,ATENCIÓ: L'OMS recomana utilitzar paracetamol abans que ibuprofèn contra el coronavirus via @elnacionalcat https://t.co/LcglCGs4R6,,58,2020-03-17T18:33:39Z,114319,FALSE
-it,1239997530454327300,TRUE,2,Adnkronos,"#Coronavirus, #Oms: ""Se si sospetta infezione no ibuprofene senza sentire medico"" https://t.co/YxUK8TWi6p https://t.co/qFxLfvDgnc","#Coronavirus, #Oms: ""Si sospechas de una infección no hay ibuprofeno sin el doctor de la audición"" https://t.co/YxUK8TWi6p https://t.co/qFxLfvDgnc",10,2020-03-17T19:30:23Z,7616,TRUE
-it,1240005603361198e3,FALSE,1,HMQueenBee,"CATEGORIA FAKE NEWS
-
-☑ La metro di Milano
-☑ La vitamina C
-☑ L'ibuprofene che favorisce il contagio
-☑ Le bevande calde
-☑ Qualsiasi scatola di medicinale russo comparsa su questo social
-☑ Le migrazioni industriali italo-cinesi
-☑ Gli 81enni lasciati a morire a Rimini","CATEGORÍA DE NOTICIAS FALSAS
-
-☑ El Metro de Milán
-☑ Vitamina C
-☑ Ibuprofeno que promueve el contagio
-☑ Bebidas calientes
-☑ Cualquier caja de medicina rusa que aparezca en esta
-☑ Migración industrial italo-china
-☑ Los 81 años dejados para morir en Rimini",87,2020-03-17T20:02:28Z,207437,FALSE
-fr,1240026294907285500,TRUE,3,Le___Doc,"#FAQCoronavirus
- #COVIDー19 #coronavirus
-
-L’aspirine est un anti-inflammatoire au même titre que l’ibuprofene, l’Advil, etc. 
-Tous ces produits sont à proscrire actuellement en cas de fièvre ⚠️
-
-Le Ponstyl et l’Antadys sont aussi des anti-inflammatoires. Attention  ⚠️","#FAQCoronavirus
- #COVIDー19 #coronavirus
-
-La aspirina es un antiinflamatorio, así como el ibuprofeno, el Advil, etc. 
-Todos estos productos deben evitarse actualmente en caso de fiebre ⚠️
-
-Ponstyl y Antadys también son medicamentos antiinflamatorios. Atención ⚠️",406,2020-03-17T21:24:41Z,198344,FALSE
-it,1240054291399835600,TRUE,1,fuoridalcorotv,"""È uscito un lavoro su Lancet due giorni fa dove si dice che alcuni specifici farmaci usati per l'ipertensione, per il diabete, così come l'ibuprofene stimolano fortemente il recettore per l'ingresso del virus""
-Queste le parole del professor Broccolo.
-Ora a #FuoriDalCoro https://t.co/cUCBVOEK0a","""Hace dos días salió un trabajo en la revista The Lancet diciendo que algunos medicamentos específicos utilizados para la hipertensión, la diabetes, así como el ibuprofeno estimulan fuertemente el receptor para la entrada del virus"".
-Estas son las palabras del profesor Brócolo.
-Ahora a #OutsideFromChorus https://t.co/cUCBVOEK0a",50,2020-03-17T23:15:56Z,29035,FALSE
-es,1240077336361525200,TRUE,3,CATERINAV,#17Mar La OMS desaconseja el ibuprofeno para tratar el coronavirus #AFP,,484,2020-03-18T00:47:31Z,415450,TRUE
-ca,1240084264659665e3,TRUE,2,TReporta,La OMS desaconseja el ibuprofeno para tratar el coronavirus https://t.co/qUq1meA8NL https://t.co/SR1zjhRKG2,,18,2020-03-18T01:15:03Z,54368,TRUE
-de,1240086040695705600,TRUE,2,welt,„Nehmen Sie kein Ibuprofen bei Corona-Verdacht“ https://t.co/Of8XM1djOi https://t.co/05QfKkRipu,"""No tome ibuprofeno si sospecha que hay una corona"" https://t.co/Of8XM1djOi https://t.co/05QfKkRipu",54,2020-03-18T01:22:06Z,84123,TRUE
-es,1240127034891866e3,TRUE,2,AFPespanol,La OMS desaconseja el ibuprofeno para tratar el coronavirus #AFP https://t.co/SkLERVUzZH https://t.co/PZSX1MjGYT,,349,2020-03-18T04:05:00Z,0,TRUE
-es,1240178926686802e3,TRUE,1,mejorimbecil,"Oye... sabéis que el ministerio de Sanidad Español os dijo, hace dos dias, que si tenias Coronavirus podiais tomar Ibruprofeno?
-
-Pues hoy ha dicho la OMS que ni hablar. Que no toméis ibuprofeno
-
-Saludos a los amiguitos del ministerio de sanidad español.",,676,2020-03-18T07:31:12Z,755943,FALSE
-de,1240192881329082400,FALSE,1,spektrum,"Im Moment kursieren viele ungesicherte Informationen: Wer Ibuprofen nehme, erkranke schlimmer, die Viren hielten sich soundso lang auf derundder Oberfläche, 10-s-Luftanhalte-Tests, Übertragung auf Haustiere uvm.
-Wir ordnen die gängigsten Behauptungen ein. https://t.co/sycBfXbqJW","En este momento hay mucha información no segura circulando: Si tomas ibuprofeno, te enfermas peor, los virus se quedan en la superficie durante tanto tiempo, pruebas de 10-s-s en el aire, transmisión a mascotas y mucho más.
-Clasificamos las acusaciones más comunes. https://t.co/sycBfXbqJW",64,2020-03-18T08:26:39Z,60830,FALSE
-it,1240197661086625800,TRUE,1,Heart_Hamal,"#Covid-19
-
-l’OMS Sconsiglia l'uso di farmaci a base di IBUPROFENE.
-(Utilizzare solo dopo un consulto medico)
-
-Si consiglia di usare farmaci a base di PARACETAMOLO.
-
-Gli esperti stanno indagando sulla correlazione uso dell'ibuprofene e i tassi di mortalità.","#Covid-19
-
-La OMS desaconseja el uso de medicamentos con IBUPROFENO.
-(Usar sólo después de la consulta médica)
-
-Se recomienda el uso de drogas a base de PARACETAMOL.
-
-Los expertos están investigando la correlación entre el consumo de ibuprofeno y las tasas de mortalidad.",8,2020-03-18T08:45:38Z,46068,FALSE
-it,1240223173964107800,TRUE,2,Corriere,"Quali sono le accortezze da osservare per chi sta assumendo medicinali in questo periodo? Ci sono possibili rischi legati a un eventuale contagio da Covid-19? Tutte le risposte su paracetamolo, ibuprofene, e medicinali per l’ipertensione. ⬇️ https://t.co/EyeWL4nlQh","¿Cuáles son las precauciones que deben observarse para quienes toman medicamentos en este momento? ¿Existen posibles riesgos asociados a una posible infección de Covid-19? Todas las respuestas sobre el paracetamol, el ibuprofeno y los medicamentos para la hipertensión. ⬇️ https://t.co/EyeWL4nlQh",8,2020-03-18T10:27:01Z,3690,TRUE
-it,1240250032378568700,TRUE,1,ilmessaggeroit,"Coronavirus, i consigli dell'Oms in caso di sintomi: sì al paracetamolo, no all'ibuprofene https://t.co/Wbs1zgTMyx","Coronavirus, Oms consejo para los síntomas: sí al paracetamol, no al ibuprofeno https://t.co/Wbs1zgTMyx",13,2020-03-18T12:13:45Z,15170,FALSE
-it,1240305439419531300,FALSE,2,MinisteroSalute,"‼Attualmente non ci sono prove scientifiche che stabiliscano una correlazione tra l’#ibuprofene e il peggioramento del decorso della malattia da #COVID19.
-
-Leggi l'aggiornamento dell'Agenzia europea per i medicinali @EMA_News ⤵
-https://t.co/aZeRhgU0PG
-#covid19italia https://t.co/0HBLBSI1W1","‼Attualmente no hay evidencia científica que establezca una correlación entre el #ibuprofeno y el empeoramiento del curso de la enfermedad de #COVID19.
-
-Lea la actualización de la Agencia Europea de Medicamentos @EMA_News ⤵
-https://t.co/aZeRhgU0PG
-#covid19italia https://t.co/0HBLBSI1W1",283,2020-03-18T15:53:55Z,677293,TRUE
-it,1240314178600042500,FALSE,1,Aifa_ufficiale,"In corso monitoraggio e valutazione dell'Agenzia Europea dei Medicinali. Attualmente nessuna prova scientifica della correlazione tra #farmaci antinfiammatori non steroidei, come #ibuprofene, e peggioramento decorso malattia da #coronavirus @EMA_News https://t.co/V3bTd1VnVf","Supervisión y evaluación continuas de la Agencia Europea de Medicamentos. Actualmente no hay evidencia científica de la correlación entre las drogas antiinflamatorias no esteroideas, como el #ibuprofeno, y el empeoramiento del curso de la enfermedad por el #coronavirus @EMA_News https://t.co/V3bTd1VnVf",20,2020-03-18T16:28:38Z,32230,FALSE
-es,1240377485818245e3,TRUE,1,RockStroke,"Si presentan síntomas de coronavirus, no tomen ibuprofeno por ningún motivo porque agrava la infección. Esto lo advirtió desde el sábado pasado el ministro de salud de Francia y hoy lo confirmó la OMS. Puro paracetamol…https://t.co/S8f6sfxnr7",,313,2020-03-18T20:40:12Z,296127,FALSE
-ca,1240397568611246e3,TRUE,3,SomosEspagueti,La OMS prohibe oficialmente tomar ibuprofeno para el coronavirus. https://t.co/Mnrm4jQRIg https://t.co/VDzNr4isnu,,12,2020-03-18T22:00:00Z,3403,TRUE
-ca,1240420277382758400,TRUE,3,ExpansionMx,#Video La OMS desaconseja el ibuprofeno para tratar el coronavirus. https://t.co/cwaOqAHUtV,,12,2020-03-18T23:30:14Z,0,TRUE
-nl,1240618426835644400,FALSE,2,NUnl,Geneesmiddelenbureau EU: Geen bewijs dat ibuprofen klachten corona verergert: https://t.co/6YPhpPGtvw,Agencia de Medicamentos de la UE: No hay pruebas de que el ibuprofeno agrave las dolencias de la corona: https://t.co/6YPhpPGtvw,20,2020-03-19T12:37:37Z,6966,TRUE
-fr,1240671590322503700,TRUE,1,Furyoz_,L'ibuprofène qui tente d'attaquer le Coronavirus https://t.co/1uSuwFrTML,Ibuprofeno tratando de atacar al Coronavirus https://t.co/1uSuwFrTML,3607,2020-03-19T16:08:52Z,0,FALSE
-de,1240691415824253e3,FALSE,2,zeitonline,Die #WHO hat ihre Warnung für #Ibuprofen zurückgenommen. #coronavirus #coronavirusdeutschland  https://t.co/cHelqDXRkY,La OMS ha retirado su advertencia por el Ibuprofeno. #coronavirus #coronavirus Alemania https://t.co/cHelqDXRkY,79,2020-03-19T17:27:39Z,88164,TRUE
-de,1240743356516401200,FALSE,2,faznet,Die WHO hat ihre Warnung vor der Einnahme des Schmerzmittels #Ibuprofen bei Verdacht auf eine Infektion mit dem neuen #Coronavirus zurückgenommen. Mehr zu den aktuellen Entwicklungen im #Liveblog: https://t.co/Aqk5snsd49 https://t.co/SEWN1smWYF,Die WHO hat ihre Warnung vor der Einnahme des Schmerzmittels #Ibuprofen bei Verdacht auf eine Infektion mit dem neuen #Coronavirus zurückgenommen. Mehr zu den aktuellen Entwicklungen im #Liveblog: https://t.co/Aqk5snsd49 https://t.co/SEWN1smWYF,119,2020-03-19T20:54:02Z,214644,TRUE
-it,1240954899673866200,FALSE,1,Radio3scienza,"Anti-ipertensivi, ibuprofene, cortisone. Molti i dubbi dei pazienti sugli effetti indesiderati dei farmaci in caso di Covid-19. Le risposte di @WRicciardi ora in onda @Radio3tweet https://t.co/vgwbc8sTjw","Anti-hipertensivos, ibuprofeno, cortisona. Muchos pacientes tienen dudas sobre los efectos secundarios de los medicamentos en el caso del Covid-19. Las respuestas de @WRicciardi ahora en el aire @Radio3tweet https://t.co/vgwbc8sTjw",10,2020-03-20T10:54:38Z,35797,FALSE
-it,1240988153982394400,TRUE,1,Paula___b,"- in caso di sintomi (gravi) chiamare il 112 e loro sapranno indirizzarvi. Sentire comunque il vostro medico, potrà intercedere per voi.
-
-- Tachipirina sì, ibuprofene no.
-
-Se qualcuno ha avuto altre indicazioni le scriva pure.","- en caso de síntomas (graves) llame al 112 y podrán dirigirle. Sin embargo, su médico podrá interceder por usted.
-
-- Tachipirina sí, ibuprofeno no.
-
-Si alguien ha tenido otras indicaciones, por favor escríbale.",23,2020-03-20T13:06:47Z,56003,FALSE
-ca,1241109763267666e3,FALSE,1,joanrlaporte,"Ibuprofèn o paracetamol? Continuo pensant que sembla més prudent paracetamol. AEMPS, CatSalut i altres haurien de revisar les seves notes informatives.Covid-19: ibuprofen should not be used for managing symptoms... https://t.co/mS2pC8bpMh vía @SIETES7 @salutcat @aemps",,43,2020-03-20T21:10:00Z,17505,FALSE
-it,1241148744571277300,FALSE,1,Bufalenet,"Evitate gli #audio su #ibuprofene e simili, non vi è nessuna certezza. ���� BASTA!!! https://t.co/L7dkDuWYSd","Evita el #audio en #ibuprofeno y similares, no hay certeza. Sync & correcciones por wilson0804 https://t.co/L7dkDuWYSd",11,2020-03-20T23:44:54Z,4442,FALSE
-it,1241377154417537e3,TRUE,3,VNotKind,"6) Prescrizioni di farmaci anti infiammatori, cortisonici e Tachipirina esacerbato i sintomi delle polmoniti da cosiddetto covid.
-
-https://t.co/SjaMwtwhci","6) La prescripción de antiinflamatorios, cortisona y taquipirina exacerbó los síntomas de la neumonía por el llamado covid.
-
-https://t.co/SjaMwtwhci",13,2020-03-21T14:52:31Z,12084,FALSE
-it,1241383764288249900,TRUE,1,desinella,Mio padre mi ha girato un audio che gli hanno inoltrato su Whatsapp che parla della correlazione tra ibuprofene e coronavirus. Ovviamente ha creduto a tutto quello che ha sentito e mi ha detto che non devo più prendere l'Oki. Il tutto per l'audio di una sconosciuta.,Mi padre me grabó un audio que le enviaron a Whatsapp sobre la correlación entre el ibuprofeno y el coronavirus. Por supuesto que creyó todo lo que escuchó y me dijo que no tengo que aguantar más a Oki. Todo por el audio de un extraño.,14,2020-03-21T15:18:47Z,5017,FALSE
-fr,1241396682593636400,TRUE,1,Dr_moji,"Ce n’est pas encore prouvé mais un ami réanimateur me confirme que les sujets jeunes intubés ont pris au début de la maladie du coronavirus des anti-inflammatoires (Advil, ibuprofene...)
-On répète beaucoup je sais mais c’est pour toucher un max de monde.","Aún no está probado, pero un amigo resucitador me confirma que los jóvenes sujetos que fueron intubados tomaban antiinflamatorios (Advil, ibuprofeno...) al principio de la enfermedad coronaria.
-Repetimos muchas cosas que sé, pero es para llegar a un máximo de gente.",2142,2020-03-21T16:10:07Z,1935712,FALSE
-it,1241481734241296400,FALSE,2,RobertoBurioni,"Il farmaco russo, il preparato giapponese, la vitamina C, la pericolosità dell'ibuprofen, i proclami sugli ACE inibitori che i somari scrivono ECA hanno una cosa in comune: sono tutte scemenze. Le novità vi arriveranno dalle autorità sanitarie, non dai social o da YouTube.","La droga rusa, el preparado japonés, la vitamina C, la peligrosidad del ibuprofeno, las proclamaciones sobre los inhibidores de la ECA que escriben los burros tienen una cosa en común: todas son tonterías. Las noticias te llegarán de las autoridades sanitarias, no de los medios sociales o de YouTube.",3149,2020-03-21T21:48:05Z,4252365,TRUE
-it,1241992176785129500,TRUE,3,VNotKind,"MINISTERO SALUTE FRANCESE
-
-APPELLO URGENTE ALLA POPOLAZIONE
-
-IBUPROFENE
-ASPIRINA
-ANTI-INFIAMMATORI
-
-POTENZIANO DI ALMENO 5 VOLTE GLI EFFETTI DEL CORONA
-
-CORRELAZIONE DI DIVERSI ESITI FATALI CON L'USO DI QUESTI FARMACI!
-
-IN ITALIA NON CI AVVERTONO!
-
-https://t.co/DoWOssGPNR","MINISTERIO DE SALUD FRANCÉS
-
-LLAMAMIENTO URGENTE A LA POBLACIÓN
-
-IBUPROFENO
-ASPIRINA
-ANTIINFLAMATORIO
-
-MEJORAR LOS EFECTOS DE LA CORONA POR LO MENOS 5 VECES
-
-CORRELACIÓN DE VARIOS RESULTADOS FATALES CON EL USO DE ESTAS DROGAS!
-
-EN ITALIA NO NOS ADVIERTEN!
-
-https://t.co/DoWOssGPNR",199,2020-03-23T07:36:24Z,186855,FALSE
-fr,1242045344952836e3,TRUE,1,Brevesdepresse,⚡����INFO - #Covid19 : un jeune homme de 28 ans est mort cette nuit à #Nice. Il avait pris de l'ibuprofene après avoir été opéré pour une hernie discale. Il a succombé à une détresse respiratoire aiguë d'évolution rapide. (Nice Matin) https://t.co/TI5RvD8BZz,⚡���INFO - #Covid19: Un varón de 28 años murió anoche en #Nice. Había tomado ibuprofeno después de la cirugía por una hernia de disco. Sucumbió a una aguda dificultad respiratoria de rápido progreso. (Buenos días) https://t.co/TI5RvD8BZz,570,2020-03-23T11:07:40Z,422654,FALSE
-it,1242056695360237600,TRUE,3,VNotKind,"Immagina per un momento
-che ai ricoverati per COVID-19
-diano IBUPROFENE E ANTI-INFIAMMATORI
-a dosi massicce
-
-stai immaginando?","Imagina por un momento
-que los hospitalizados por COVID-19
-diano hibuprofeno y antiflamatorios
-en dosis masivas
-
-¿estás imaginando?",23,2020-03-23T11:52:47Z,13218,FALSE
-ca,1242441703895830500,FALSE,2,salutcat,"L’ibuprofèn �� pot empitjorar l’afectació del coronavirus?
-
-❌ No hi ha cap prova ni motiu per establir una contraindicació de l'ibuprofèn com a tractament de símptomes menors, sempre que es faci servir tal com s'especifica en les instruccions, amb les dosis recomanades
-#JoActuo https://t.co/Nf0qtBBFG4",,25,2020-03-24T13:22:40Z,79360,TRUE
+"status_id"
+"1238500087262838800"
+"1238761674968043500"
+"1238761901108146200"
+"1238764201507729400"
+"1238767290532933600"
+"1238776545398923300"
+"1238776633122852900"
+"1238777080885792800"
+"1238777286784098300"
+"1238778071345434600"
+"1238780109923942400"
+"1238780185148821500"
+"1238780538498044000"
+"1238782938344554500"
+"1238783704220254200"
+"1238784775369916400"
+"1238788059501559800"
+"1238790945749053400"
+"1238799903519838200"
+"1238801610555502600"
+"1238805916608315400"
+"1238812871913586700"
+"1238814043550486500"
+"1238814509290197000"
+"1238815009989329000"
+"1238826512914186200"
+"1238827693615067100"
+"1238832055665995800"
+"1238838015209988000"
+"1238840932474278000"
+"1238840992805068800"
+"1238843505885266000"
+"1238852830741573600"
+"1238861173967241200"
+"1238867126393491500"
+"1238875472324431900"
+"1238876167962230800"
+"1238887521041424400"
+"1238892634380349400"
+"1238901323988439000"
+"1238908034082095000"
+"1238912639721525200"
+"1238913028348948500"
+"1238914960622846000"
+"1238923162043252700"
+"1238955700711239700"
+"1238961014860845000"
+"1238978260832342000"
+"1238983098597101600"
+"1239086427968696300"
+"1239119886472949800"
+"1239122639131730000"
+"1239123377119465500"
+"1239137080535650300"
+"1239148830182039600"
+"1239159985063497700"
+"1239160874880958500"
+"1239160876223139800"
+"1239170672959672300"
+"1239188182052331500"
+"1239192124504952800"
+"1239197456761532400"
+"1239197585455407000"
+"1239198403508174800"
+"1239200928231829500"
+"1239201896323260400"
+"1239202442551521300"
+"1239218815826870300"
+"1239222355479724000"
+"1239224206098923500"
+"1239248787006271500"
+"1239249453586022400"
+"1239261199721803800"
+"1239277191780655000"
+"1239297820919619600"
+"1239320497407524900"
+"1239321728460845000"
+"1239366546079846400"
+"1239435248020213800"
+"1239445435015737300"
+"1239446801029177300"
+"1239467723832336400"
+"1239474803796521000"
+"1239475904734265300"
+"1239496010545627100"
+"1239499840620560400"
+"1239538727757713400"
+"1239545152454168600"
+"1239546920936378400"
+"1239560981346422800"
+"1239571347413532700"
+"1239576188336713700"
+"1239582843698688000"
+"1239585617358422000"
+"1239589629688512500"
+"1239589798572146700"
+"1239590641836982300"
+"1239604984464969700"
+"1239605809014866000"
+"1239618136204337200"
+"1239657124612976600"
+"1239683929025785900"
+"1239872228533186600"
+"1239881221519392800"
+"1239887797466660900"
+"1239887846669983700"
+"1239888037569540000"
+"1239889781968035800"
+"1239898632813453300"
+"1239921628030664700"
+"1239922376042823700"
+"1239929676732051500"
+"1239930736750313500"
+"1239942573696876500"
+"1239948711498842000"
+"1239961708724015000"
+"1239973904510144500"
+"1239983252544409600"
+"1239997530454327300"
+"1240005603361198000"
+"1240026294907285500"
+"1240054291399835600"
+"1240077336361525200"
+"1240084264659665000"
+"1240086040695705600"
+"1240127034891866000"
+"1240178926686802000"
+"1240192881329082400"
+"1240197661086625800"
+"1240223173964107800"
+"1240250032378568700"
+"1240305439419531300"
+"1240314178600042500"
+"1240377485818245000"
+"1240397568611246000"
+"1240420277382758400"
+"1240618426835644400"
+"1240671590322503700"
+"1240691415824253000"
+"1240743356516401200"
+"1240954899673866200"
+"1240988153982394400"
+"1241109763267666000"
+"1241148744571277300"
+"1241377154417537000"
+"1241383764288249900"
+"1241396682593636400"
+"1241481734241296400"
+"1241992176785129500"
+"1242045344952836000"
+"1242056695360237600"
+"1242441703895830500"
